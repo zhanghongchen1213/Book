@@ -1,3 +1,4 @@
 # Auto detect text files and perform LF normalization
 * text=auto
 ROS/ROS2机器人开发从入门到实践.pdf filter=lfs diff=lfs merge=lfs -text
+Linux开发/【正点原子】I.MX6U嵌入式Linux驱动开发指南V1.81.pdf filter=lfs diff=lfs merge=lfs -text
